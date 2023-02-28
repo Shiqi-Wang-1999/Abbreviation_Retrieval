@@ -1,0 +1,10 @@
+pandas
+jieba
+pyhanlp
+gensim
+xlrd
+bert_embedding
+mxnet
+uvicorn
+python-multipart
+fastapi
